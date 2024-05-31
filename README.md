@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hope Alemayehu and I work in Quantum Software Projects and and Machine Learning projects.</p>
+<p align="left">My name is Hope Alemayehu and I work in Quantum Software and Machine Learning projects.</p>
 
 ###
 
