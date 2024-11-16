@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Qubits for life<br>📚 I'm currently learning Computer Science at Addis Ababa University<br>🎯 Goals: Contribute good things that breaks few times</p>
+<p align="left">✨Qubits for life<br>📚 I'm currently learning Computer Science at Addis Ababa University<br>🎯</p>
 
 ###
 
