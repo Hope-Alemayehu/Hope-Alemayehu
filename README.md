@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Hope Alemayehu**, a quantum software developer and backend engineer exploring the intersection of computation and physics.  
+I'm **Hope Alemayehu**, a quantum software developer exploring the intersection of computation and physics.  
 
 ## 🔧 Technologies I Work With  
 `Python` • `Go` • `C++` • `Rust (learning)`  
