@@ -14,7 +14,7 @@ I build **systems and tooling** at the intersection of
 ---
 
 ### Tools I use
-Python • Rust
+- Python • Rust
 
 ---
 
